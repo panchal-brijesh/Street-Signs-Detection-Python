@@ -18,9 +18,8 @@ This project involves developing a street sign detection system using both **YOL
 - **Feature Extraction:** Detected and classified various street signs.
 - **Real-time Inference:** Performed live detection using trained YOLOv8 model.
 
-## Tools & Platforms Used
+## Classical_Image_Processing_Template Matching.ipynb
 
-- **YOLOv8** for training and inference
-- **OpenCV** for classical processing
-- **Roboflow** for data labeling and augmentation
+The file is too large for GitHub. You can view or download it here:  
+👉 [View on Google Drive](https://colab.research.google.com/drive/1RdYeh7diCsxSvcStmR_fM_NRzaF7e_Rp?usp=drive_link)
   
