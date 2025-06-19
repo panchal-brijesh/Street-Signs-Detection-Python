@@ -11,7 +11,7 @@ Brijeshkumar Vijaykumar Panchal
 Master of Mechatronics and Robotics
 
 ## Semester
-Wintersemester 2024-2025
+Wintersemester 2024/25
 
 ## Subject
 Computer & Robot Vision
