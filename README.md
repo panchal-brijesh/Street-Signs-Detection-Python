@@ -1,23 +1,27 @@
-## Project Title
+## 🚦 Detection of Street Signs
+
+### Project Title
 Detection of Street Signs
 
-## Author
+### Author
 Brijeshkumar Vijaykumar Panchal
 
-## Matriculation Number
+### Matriculation Number
 221607
 
-## Course
+### Course
 Master of Mechatronics and Robotics
 
-## Semester
+### Semester
 Wintersemester 2024/25
 
-## Subject
+### Subject
 Computer & Robot Vision
 
-## Supervisor
+### Supervisor
 Prof. Dr. rer. nat. Dieter Maier
+
+---
 
 ## Introduction
 
