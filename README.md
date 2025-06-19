@@ -17,3 +17,10 @@ This project involves developing a street sign detection system using both **YOL
 - **Preprocessing:** Enhanced image quality for better detection.
 - **Feature Extraction:** Detected and classified various street signs.
 - **Real-time Inference:** Performed live detection using trained YOLOv8 model.
+
+## Tools & Platforms Used
+
+- **YOLOv8** for training and inference
+- **OpenCV** for classical processing
+- **Roboflow** for data labeling and augmentation
+  
