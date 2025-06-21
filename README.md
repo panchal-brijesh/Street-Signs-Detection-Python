@@ -18,9 +18,6 @@ Wintersemester 2024/25
 ### Subject
 Computer & Robot Vision
 
-### Supervisor
-Prof. Dr. rer. nat. Dieter Maier
-
 ---
 
 ## Introduction
